@@ -1,0 +1,7 @@
+C:\Users\abduilaziz\source\repos\Database backup\bin\Release\Database backup.exe.config
+C:\Users\abduilaziz\source\repos\Database backup\bin\Release\Database backup.exe
+C:\Users\abduilaziz\source\repos\Database backup\bin\Release\Database backup.pdb
+C:\Users\abduilaziz\source\repos\Database backup\obj\Release\Database backup.csproj.AssemblyReference.cache
+C:\Users\abduilaziz\source\repos\Database backup\obj\Release\Database backup.csproj.CoreCompileInputs.cache
+C:\Users\abduilaziz\source\repos\Database backup\obj\Release\Database backup.exe
+C:\Users\abduilaziz\source\repos\Database backup\obj\Release\Database backup.pdb
